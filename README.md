@@ -1,7 +1,7 @@
 # Implementation-of-Momentum-Trading-Strategies-using-neural-networks
 ## Project is spit into 3 parts: 
 ## Part A is trying to oredict stock prices using neural nets(LSTM and GRU) without any strategy
-## Part B is using simpke moving averages strategy with feature extraction amd external ticks
+## Part B is using simple moving averages strategy with feature extraction amd external ticks
 ## Part C is using moving averages strategy without extrernal ticks and also implementing volatility testing
 ## Backtesting is performed for Part C stratergy for final closing price
 ## Data is in zip file for Part A.(there is code in Jupyter notebook to unzip the file)
