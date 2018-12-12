@@ -5,8 +5,7 @@
 ## Part C is using moving averages strategy without extrernal ticks and also implementing volatility testing
 ## Backtesting is performed for Part C stratergy for final closing price
 ## Data is in zip file for Part A.(there is code in Jupyter notebook to unzip the file)
-## Data in .csv files are used for Part B and Part C. They are sampled from Part A, Users are encouraged to resamaple the OHLCV data from 
-## zip file into that in .csv file. 
+## Data in .csv files are used for Part B and Part C. They are sampled from Part A, Users are encouraged to resamaple the OHLCV data from zip file into that in .csv file so they learn using different datasets
 ## All data is in OHLCV format and is historic stock prices of NASDAQ acquired from NASDAQ historical prices from Yahoo api,
 ## Utils and Feature.py have to be run with Volatility trading notebook. Same for backtesting.py 
 ## Running: Run on Keras with Tensorflow backend. Highly encourage you to run AWS Deep Learning Ubuntu AMI EC2 instance
